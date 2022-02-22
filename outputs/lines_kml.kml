@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11">
+        <Style id="14">
+            <LineStyle id="15">
+                <color>ffffff00</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="13">
+            <name>Path</name>
+            <description>Caminho de Taubaté a Itajubá</description>
+            <styleUrl>#14</styleUrl>
+            <LineString id="12">
+                <coordinates>-45.45265450985259,-22.417578569401623,0.0 -45.57056842974935,-23.01992498902612,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
